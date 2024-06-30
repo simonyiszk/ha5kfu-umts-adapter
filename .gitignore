@@ -1,2 +1,5 @@
 fp-info-cache
 umts-adapter-backups
+*.pdf
+*.gbr
+*.drl
